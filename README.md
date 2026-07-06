@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Erzaid04/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Erzaid04/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0179-largest-number](https://github.com/Erzaid04/leetcode-solutions/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Erzaid04/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Erzaid04/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Erzaid04/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Erzaid04/leetcode-solutions/tree/master/0179-largest-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Erzaid04/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Erzaid04/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Erzaid04/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -80,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Erzaid04/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Erzaid04/leetcode-solutions/tree/master/0179-largest-number) |
+## Sorting
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Erzaid04/leetcode-solutions/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
