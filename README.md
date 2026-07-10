@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Erzaid04/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Erzaid04/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1695-maximum-erasure-value](https://github.com/Erzaid04/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/Erzaid04/leetcode-solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 ## Hash Table
 |  |
 | ------- |
