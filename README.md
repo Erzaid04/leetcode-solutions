@@ -146,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Erzaid04/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/Erzaid04/leetcode-solutions/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
