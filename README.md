@@ -1,4 +1,47 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+<h1 align="center">📚 LeetCode Solutions</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F89F1B&center=true&vCenter=true&width=700&lines=Data+Structures+%26+Algorithms;Python+Solutions;Interview+Preparation;Consistency+is+the+Key" />
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/erzaid?theme=dark&font=Karma&ext=contest" />
+</p>
+
+<p align="center">
+A curated collection of my <b>Python</b> solutions to LeetCode problems, organized by topic and automatically updated using <b>LeetHub v2</b> for consistent interview preparation.</p>
+
+<p align="center">
+<a href="https://leetcode.com/u/erzaid/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Erzaid04">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🎯 Goals
+
+- 📚 Master Data Structures & Algorithms
+- 💻 Prepare for coding interviews
+- 🔥 Maintain a consistent solving streak
+- 🚀 Write clean and optimized Python solutions
+
+---
+
+# 📈 Repository Features
+
+- ✅ Automatically updated with **LeetHub v2**
+- ✅ Organized by problem topics
+- ✅ Direct links to every solution
+- ✅ Interview-focused Python implementations
+
+---
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
