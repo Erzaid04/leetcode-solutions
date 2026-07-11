@@ -6,16 +6,14 @@ class Solution(object):
         :rtype: int
         """
         l,r=1,max(piles)
-        ans = 0
         while l<=r:
             mid = (l+r)//2
             hours = 0
             for num in piles:
                 hours+=(num+mid-1)//mid
             if hours<=h:
-                ans = mid
                 r = mid-1
             else:
                 l=mid+1
-        return ans
+        return l
         
