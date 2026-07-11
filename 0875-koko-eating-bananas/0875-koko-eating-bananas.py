@@ -12,8 +12,9 @@ class Solution(object):
             for num in piles:
                 hours+=(num+mid-1)//mid
             if hours<=h:
+                ans = mid
                 r = mid-1
             else:
                 l=mid+1
-        return l
+        return ans
         
