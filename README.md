@@ -17,9 +17,8 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 </a>
 
 <a href="https://github.com/Erzaid04">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </p>
 
 ---
@@ -33,7 +32,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 
 ---
 
-# 📈 Repository Features
+# ✨ Repository Highlights
 
 - ✅ Automatically updated with **LeetHub v2**
 - ✅ Organized by problem topics
