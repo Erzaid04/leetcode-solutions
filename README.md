@@ -71,6 +71,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [0930-binary-subarrays-with-sum](https://github.com/Erzaid04/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Erzaid04/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Erzaid04/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1331-rank-transform-of-an-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1695-maximum-erasure-value](https://github.com/Erzaid04/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Erzaid04/leetcode-solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Erzaid04/leetcode-solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -89,6 +90,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [0846-hand-of-straights](https://github.com/Erzaid04/leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0930-binary-subarrays-with-sum](https://github.com/Erzaid04/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Erzaid04/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1331-rank-transform-of-an-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1695-maximum-erasure-value](https://github.com/Erzaid04/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
 ## Prefix Sum
 |  |
@@ -182,6 +184,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Erzaid04/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/Erzaid04/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0846-hand-of-straights](https://github.com/Erzaid04/leetcode-solutions/tree/master/0846-hand-of-straights) |
+| [1331-rank-transform-of-an-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Counting
 |  |
 | ------- |
