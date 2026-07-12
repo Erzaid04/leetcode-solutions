@@ -70,6 +70,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [0918-maximum-sum-circular-subarray](https://github.com/Erzaid04/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/Erzaid04/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Erzaid04/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Erzaid04/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1695-maximum-erasure-value](https://github.com/Erzaid04/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Erzaid04/leetcode-solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 ## Hash Table
@@ -137,6 +138,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [0209-minimum-size-subarray-sum](https://github.com/Erzaid04/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Erzaid04/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Erzaid04/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Two Pointers
 |  |
 | ------- |
