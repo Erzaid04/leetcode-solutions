@@ -11,6 +11,7 @@ class Solution(object):
             return -1
 
         l,r= min(bloomDay),max(bloomDay)
+        ans =-1
         while l<=r:
             mid = (l+r)//2
             if self.canMake(bloomDay,m,k,mid):
