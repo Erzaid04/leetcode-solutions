@@ -5,10 +5,7 @@ class Solution(object):
         :type m: int
         :rtype: int
         """
-        position.sort()
-        l = 1
-        r = position[-1] - position[0]
-        ans = -1
+        
         def canPlace(dist):
             count = 1
             last = position[0]
@@ -21,7 +18,10 @@ class Solution(object):
                     return True
             return False
 
-
+        position.sort()
+        l = 1
+        r = position[-1] - position[0]
+        ans = -1
         while l<=r:
             mid = (l+r)//2
             if canPlace(mid):
