@@ -9,21 +9,22 @@ class Solution(object):
         l = 1
         r = position[-1] - position[0]
 
-        def canPlace(pos,m,dist):
+        def canPlace(dist):
             count = 1
-            last = pos[0]
-            for i in range(1,len(pos)):
-                if pos[i]-last>=dist:
+            last = position[0]
+            n = len(position)
+            for i in range(1,n):
+                if position[i]-last>=dist:
                     count+=1
-                    last = pos[i]
-                if count>=m:
+                    last = position[i]
+                if count==m:
                     return True
             return False
 
 
         while l<=r:
             mid = (l+r)//2
-            if canPlace(position,m,mid):
+            if canPlace(mid):
                 l = mid+1
             else:
                 r = mid-1
