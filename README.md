@@ -78,6 +78,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [1695-maximum-erasure-value](https://github.com/Erzaid04/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Erzaid04/leetcode-solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Erzaid04/leetcode-solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1929-concatenation-of-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
@@ -214,4 +215,8 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/Erzaid04/leetcode-solutions/tree/master/0177-nth-highest-salary) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
