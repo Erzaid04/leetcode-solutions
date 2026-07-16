@@ -5,14 +5,18 @@ class Solution(object):
         :type target: int
         :rtype: bool
         """
-        row = 0
-        col = len(mat[0])-1
-        while row<len(mat) and col>=0:
+        m = len(mat)
+        n = len(mat[0])
+        l = 0
+        r = m*n-1
+        while l<=r:
+            mid = l+(r-l)//2
+            row = mid//n
+            col = mid%n
             if mat[row][col]==x:
                 return True
             elif mat[row][col]<x:
-                 row+=1
+                l = mid+1
             else:
-               col-=1
+                r = mid-1
         return False
-        
