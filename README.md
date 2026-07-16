@@ -61,6 +61,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [0179-largest-number](https://github.com/Erzaid04/leetcode-solutions/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Erzaid04/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Erzaid04/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Erzaid04/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Erzaid04/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Erzaid04/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -158,6 +159,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Erzaid04/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Erzaid04/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Erzaid04/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Erzaid04/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Erzaid04/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Erzaid04/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -179,6 +181,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Erzaid04/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Erzaid04/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Erzaid04/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Erzaid04/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -258,5 +261,6 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Erzaid04/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Erzaid04/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Erzaid04/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
