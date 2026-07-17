@@ -53,6 +53,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [0053-maximum-subarray](https://github.com/Erzaid04/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Erzaid04/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Erzaid04/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/Erzaid04/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Erzaid04/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -175,6 +176,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Erzaid04/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0088-merge-sorted-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0567-permutation-in-string](https://github.com/Erzaid04/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Erzaid04/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0763-partition-labels](https://github.com/Erzaid04/leetcode-solutions/tree/master/0763-partition-labels) |
@@ -212,6 +214,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Erzaid04/leetcode-solutions/tree/master/0179-largest-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Erzaid04/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Erzaid04/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
