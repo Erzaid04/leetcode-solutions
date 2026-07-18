@@ -50,6 +50,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [0033-search-in-rotated-sorted-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Erzaid04/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/Erzaid04/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Erzaid04/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Erzaid04/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Erzaid04/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -95,6 +96,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Erzaid04/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0219-contains-duplicate-ii](https://github.com/Erzaid04/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Erzaid04/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Erzaid04/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
