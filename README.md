@@ -47,6 +47,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Erzaid04/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0016-3sum-closest](https://github.com/Erzaid04/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Erzaid04/leetcode-solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -186,6 +187,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Erzaid04/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0016-3sum-closest](https://github.com/Erzaid04/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Erzaid04/leetcode-solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/Erzaid04/leetcode-solutions/tree/master/0344-reverse-string) |
@@ -226,6 +228,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Erzaid04/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Erzaid04/leetcode-solutions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Erzaid04/leetcode-solutions/tree/master/0242-valid-anagram) |
