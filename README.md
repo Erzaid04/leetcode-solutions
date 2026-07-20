@@ -77,6 +77,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [0560-subarray-sum-equals-k](https://github.com/Erzaid04/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Erzaid04/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/Erzaid04/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/Erzaid04/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Erzaid04/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Erzaid04/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0846-hand-of-straights](https://github.com/Erzaid04/leetcode-solutions/tree/master/0846-hand-of-straights) |
@@ -137,6 +138,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [0424-longest-repeating-character-replacement](https://github.com/Erzaid04/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Erzaid04/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Erzaid04/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/Erzaid04/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/Erzaid04/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Erzaid04/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1695-maximum-erasure-value](https://github.com/Erzaid04/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
