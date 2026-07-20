@@ -144,6 +144,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Erzaid04/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0507-perfect-number](https://github.com/Erzaid04/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/Erzaid04/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Erzaid04/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
