@@ -100,6 +100,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Erzaid04/leetcode-solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1929-concatenation-of-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
@@ -135,6 +136,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [0930-binary-subarrays-with-sum](https://github.com/Erzaid04/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Erzaid04/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1732-find-the-highest-altitude](https://github.com/Erzaid04/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
+| [1991-find-the-middle-index-in-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 ## Sliding Window
 |  |
 | ------- |
