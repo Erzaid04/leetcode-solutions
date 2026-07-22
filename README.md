@@ -95,6 +95,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [1539-kth-missing-positive-number](https://github.com/Erzaid04/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Erzaid04/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1695-maximum-erasure-value](https://github.com/Erzaid04/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
+| [1732-find-the-highest-altitude](https://github.com/Erzaid04/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Erzaid04/leetcode-solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Erzaid04/leetcode-solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1929-concatenation-of-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -133,6 +134,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [0724-find-pivot-index](https://github.com/Erzaid04/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Erzaid04/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Erzaid04/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1732-find-the-highest-altitude](https://github.com/Erzaid04/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 ## Sliding Window
 |  |
 | ------- |
