@@ -112,6 +112,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [0219-contains-duplicate-ii](https://github.com/Erzaid04/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Erzaid04/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Erzaid04/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Erzaid04/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Erzaid04/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Erzaid04/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -170,6 +171,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [0179-largest-number](https://github.com/Erzaid04/leetcode-solutions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Erzaid04/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Erzaid04/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/Erzaid04/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Erzaid04/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Erzaid04/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/Erzaid04/leetcode-solutions/tree/master/0763-partition-labels) |
@@ -256,6 +258,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [0229-majority-element-ii](https://github.com/Erzaid04/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Erzaid04/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Erzaid04/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/Erzaid04/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Erzaid04/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/Erzaid04/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Erzaid04/leetcode-solutions/tree/master/0645-set-mismatch) |
@@ -292,6 +295,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | ------- |
 | [0137-single-number-ii](https://github.com/Erzaid04/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Erzaid04/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/Erzaid04/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Erzaid04/leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Counting Sort
 |  |
