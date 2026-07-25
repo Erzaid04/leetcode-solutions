@@ -166,6 +166,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [0507-perfect-number](https://github.com/Erzaid04/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/Erzaid04/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Erzaid04/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Erzaid04/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Erzaid04/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
@@ -273,6 +274,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [1552-magnetic-force-between-two-balls](https://github.com/Erzaid04/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Erzaid04/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Erzaid04/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
 |  |
 | ------- |
