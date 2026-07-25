@@ -97,6 +97,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Erzaid04/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Erzaid04/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Erzaid04/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Erzaid04/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1695-maximum-erasure-value](https://github.com/Erzaid04/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
 | [1732-find-the-highest-altitude](https://github.com/Erzaid04/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Erzaid04/leetcode-solutions/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -130,6 +131,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [0974-subarray-sums-divisible-by-k](https://github.com/Erzaid04/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Erzaid04/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Erzaid04/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1695-maximum-erasure-value](https://github.com/Erzaid04/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
 ## Prefix Sum
 |  |
@@ -269,6 +271,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [1331-rank-transform-of-an-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Erzaid04/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Erzaid04/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Erzaid04/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
 |  |
