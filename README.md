@@ -66,6 +66,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [0209-minimum-size-subarray-sum](https://github.com/Erzaid04/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Erzaid04/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Erzaid04/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Erzaid04/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Erzaid04/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Erzaid04/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -109,6 +110,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | ------- |
 | [0041-first-missing-positive](https://github.com/Erzaid04/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0219-contains-duplicate-ii](https://github.com/Erzaid04/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Erzaid04/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Erzaid04/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Erzaid04/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -251,6 +253,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [0088-merge-sorted-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Erzaid04/leetcode-solutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/Erzaid04/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Erzaid04/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Erzaid04/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Erzaid04/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -264,6 +267,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Erzaid04/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Erzaid04/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Stack
 |  |
