@@ -1,9 +1,13 @@
 class Solution:
     def maxProduct(self, nums: List[int]) -> int:
-        total = 1
-        max_total = 0
-        for i in range(len(nums)):
-            for j in range(i+1,len(nums)):
-                total = ((nums[i]-1)* (nums[j]-1))
-                max_total = max(total,max_total)
-        return max_total
+        largest = float('-inf')
+        second_largest = float('-inf')
+
+        for num in nums:
+            if num >= largest:
+                second_largest = largest
+                largest = num
+            elif num > second_largest:
+                second_largest = num
+
+        return (largest - 1) * (second_largest - 1)
