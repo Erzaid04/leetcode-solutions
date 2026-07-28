@@ -178,6 +178,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Erzaid04/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/Erzaid04/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/Erzaid04/leetcode-solutions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Erzaid04/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Erzaid04/leetcode-solutions/tree/master/0344-reverse-string) |
@@ -293,6 +294,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Erzaid04/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/Erzaid04/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Erzaid04/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Monotonic Stack
