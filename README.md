@@ -47,6 +47,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Erzaid04/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Erzaid04/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Erzaid04/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Erzaid04/leetcode-solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -220,6 +221,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Erzaid04/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Erzaid04/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Erzaid04/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Erzaid04/leetcode-solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -256,6 +258,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Erzaid04/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Erzaid04/leetcode-solutions/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/Erzaid04/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Erzaid04/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
