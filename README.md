@@ -88,6 +88,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [0645-set-mismatch](https://github.com/Erzaid04/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Erzaid04/leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Erzaid04/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/Erzaid04/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Erzaid04/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0846-hand-of-straights](https://github.com/Erzaid04/leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/Erzaid04/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
@@ -304,6 +305,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [0020-valid-parentheses](https://github.com/Erzaid04/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/Erzaid04/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Erzaid04/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0735-asteroid-collision](https://github.com/Erzaid04/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Erzaid04/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -318,6 +320,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Erzaid04/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
 |  |
