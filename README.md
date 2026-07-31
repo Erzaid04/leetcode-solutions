@@ -55,6 +55,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [0035-search-insert-position](https://github.com/Erzaid04/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Erzaid04/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Erzaid04/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Erzaid04/leetcode-solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Erzaid04/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Erzaid04/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -169,6 +170,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Erzaid04/leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Erzaid04/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0507-perfect-number](https://github.com/Erzaid04/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/Erzaid04/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
