@@ -58,6 +58,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [0066-plus-one](https://github.com/Erzaid04/leetcode-solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Erzaid04/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Erzaid04/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Erzaid04/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/Erzaid04/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Erzaid04/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
@@ -305,6 +306,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Erzaid04/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Erzaid04/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Erzaid04/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Erzaid04/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0735-asteroid-collision](https://github.com/Erzaid04/leetcode-solutions/tree/master/0735-asteroid-collision) |
@@ -312,6 +314,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Erzaid04/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Erzaid04/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Erzaid04/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/Erzaid04/leetcode-solutions/tree/master/0739-daily-temperatures) |
