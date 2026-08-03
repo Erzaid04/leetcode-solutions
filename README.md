@@ -88,6 +88,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [0628-maximum-product-of-three-numbers](https://github.com/Erzaid04/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Erzaid04/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Erzaid04/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/Erzaid04/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Erzaid04/leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Erzaid04/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Erzaid04/leetcode-solutions/tree/master/0735-asteroid-collision) |
@@ -312,6 +313,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [0084-largest-rectangle-in-histogram](https://github.com/Erzaid04/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Erzaid04/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Erzaid04/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0682-baseball-game](https://github.com/Erzaid04/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Erzaid04/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Erzaid04/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
@@ -328,6 +330,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Erzaid04/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Erzaid04/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
