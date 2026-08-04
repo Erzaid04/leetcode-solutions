@@ -79,6 +79,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Erzaid04/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Erzaid04/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Erzaid04/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Erzaid04/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -318,6 +319,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [0020-valid-parentheses](https://github.com/Erzaid04/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Erzaid04/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Erzaid04/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Erzaid04/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Erzaid04/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/Erzaid04/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Erzaid04/leetcode-solutions/tree/master/0735-asteroid-collision) |
@@ -329,6 +331,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Erzaid04/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Erzaid04/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Erzaid04/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Erzaid04/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/Erzaid04/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Database
