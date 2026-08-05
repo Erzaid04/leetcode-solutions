@@ -326,6 +326,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [0735-asteroid-collision](https://github.com/Erzaid04/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Erzaid04/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Erzaid04/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/Erzaid04/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Erzaid04/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Erzaid04/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
@@ -336,6 +337,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [0503-next-greater-element-ii](https://github.com/Erzaid04/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Erzaid04/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/Erzaid04/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Erzaid04/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Erzaid04/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Database
 |  |
@@ -388,4 +390,12 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Erzaid04/leetcode-solutions/tree/master/0877-stone-game) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Erzaid04/leetcode-solutions/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Erzaid04/leetcode-solutions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
