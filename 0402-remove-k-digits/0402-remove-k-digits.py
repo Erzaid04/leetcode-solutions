@@ -10,11 +10,10 @@ class Solution:
             stack.pop()
             k-=1
         result = "".join(stack)
-        while result and result[0] == "0":
-            result = result[1:]
+        result = result.lstrip("0")
         if len(result)==0:
             return "0"
-            
+
         return result
 
             
