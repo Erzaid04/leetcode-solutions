@@ -62,6 +62,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [0085-maximal-rectangle](https://github.com/Erzaid04/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/Erzaid04/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Erzaid04/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Erzaid04/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Erzaid04/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -180,6 +181,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | ------- |
 | [0066-plus-one](https://github.com/Erzaid04/leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Erzaid04/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Erzaid04/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/Erzaid04/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/Erzaid04/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/Erzaid04/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
@@ -329,6 +331,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [0032-longest-valid-parentheses](https://github.com/Erzaid04/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Erzaid04/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Erzaid04/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Erzaid04/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0402-remove-k-digits](https://github.com/Erzaid04/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Erzaid04/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Erzaid04/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
