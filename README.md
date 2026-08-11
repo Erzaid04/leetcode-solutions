@@ -121,6 +121,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [1991-find-the-middle-index-in-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Erzaid04/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Erzaid04/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Erzaid04/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -149,6 +150,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Erzaid04/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Erzaid04/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1695-maximum-erasure-value](https://github.com/Erzaid04/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Erzaid04/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Erzaid04/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
@@ -318,6 +320,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [1552-magnetic-force-between-two-balls](https://github.com/Erzaid04/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Erzaid04/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Erzaid04/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/Erzaid04/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Erzaid04/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Counting
