@@ -105,6 +105,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Erzaid04/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1331-rank-transform-of-an-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Erzaid04/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Erzaid04/leetcode-solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Erzaid04/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -360,6 +361,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [0901-online-stock-span](https://github.com/Erzaid04/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Erzaid04/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Erzaid04/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Erzaid04/leetcode-solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Erzaid04/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
@@ -432,6 +434,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [0225-implement-stack-using-queues](https://github.com/Erzaid04/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Erzaid04/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/Erzaid04/leetcode-solutions/tree/master/0901-online-stock-span) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Erzaid04/leetcode-solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Data Stream
 |  |
 | ------- |
