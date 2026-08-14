@@ -154,6 +154,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [1695-maximum-erasure-value](https://github.com/Erzaid04/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Erzaid04/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Erzaid04/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Erzaid04/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/Erzaid04/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
@@ -182,6 +183,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Erzaid04/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1695-maximum-erasure-value](https://github.com/Erzaid04/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Erzaid04/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Erzaid04/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Erzaid04/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Erzaid04/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Erzaid04/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Erzaid04/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
 |  |
 | ------- |
