@@ -225,6 +225,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Erzaid04/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Erzaid04/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Erzaid04/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Erzaid04/leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Erzaid04/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Erzaid04/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Erzaid04/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -375,6 +376,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Erzaid04/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Erzaid04/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Erzaid04/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Erzaid04/leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Erzaid04/leetcode-solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Erzaid04/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
