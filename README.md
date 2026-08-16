@@ -120,6 +120,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [1929-concatenation-of-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [2029-stone-game-ix](https://github.com/Erzaid04/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Erzaid04/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Erzaid04/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -197,6 +198,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [0628-maximum-product-of-three-numbers](https://github.com/Erzaid04/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Erzaid04/leetcode-solutions/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Erzaid04/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Erzaid04/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Erzaid04/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Erzaid04/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -312,6 +314,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [0846-hand-of-straights](https://github.com/Erzaid04/leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Erzaid04/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Erzaid04/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2029-stone-game-ix](https://github.com/Erzaid04/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Erzaid04/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
@@ -345,6 +348,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | ------- |
 | [0229-majority-element-ii](https://github.com/Erzaid04/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Erzaid04/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [2029-stone-game-ix](https://github.com/Erzaid04/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Stack
 |  |
 | ------- |
@@ -440,6 +444,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Erzaid04/leetcode-solutions/tree/master/0877-stone-game) |
+| [2029-stone-game-ix](https://github.com/Erzaid04/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Design
 |  |
 | ------- |
@@ -470,4 +475,16 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Erzaid04/leetcode-solutions/tree/master/0394-decode-string) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Erzaid04/leetcode-solutions/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Erzaid04/leetcode-solutions/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Erzaid04/leetcode-solutions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
