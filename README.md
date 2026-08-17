@@ -91,6 +91,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [0628-maximum-product-of-three-numbers](https://github.com/Erzaid04/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Erzaid04/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Erzaid04/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Erzaid04/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Erzaid04/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Erzaid04/leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Erzaid04/leetcode-solutions/tree/master/0724-find-pivot-index) |
