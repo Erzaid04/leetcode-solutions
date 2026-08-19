@@ -119,6 +119,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [1800-maximum-ascending-subarray-sum](https://github.com/Erzaid04/leetcode-solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Erzaid04/leetcode-solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1929-concatenation-of-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Erzaid04/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2029-stone-game-ix](https://github.com/Erzaid04/leetcode-solutions/tree/master/2029-stone-game-ix) |
@@ -230,6 +231,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Erzaid04/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Erzaid04/leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Erzaid04/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Erzaid04/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Erzaid04/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Erzaid04/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
