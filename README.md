@@ -199,6 +199,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [0150-evaluate-reverse-polish-notation](https://github.com/Erzaid04/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/Erzaid04/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/Erzaid04/leetcode-solutions/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/Erzaid04/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Erzaid04/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Erzaid04/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Erzaid04/leetcode-solutions/tree/master/0877-stone-game) |
@@ -297,6 +298,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [0085-maximal-rectangle](https://github.com/Erzaid04/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/Erzaid04/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Erzaid04/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0509-fibonacci-number](https://github.com/Erzaid04/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Erzaid04/leetcode-solutions/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Erzaid04/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
@@ -485,6 +487,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Erzaid04/leetcode-solutions/tree/master/0394-decode-string) |
+| [0509-fibonacci-number](https://github.com/Erzaid04/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Minimax
 |  |
 | ------- |
@@ -497,4 +500,8 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Erzaid04/leetcode-solutions/tree/master/2029-stone-game-ix) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Erzaid04/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
