@@ -140,6 +140,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [0229-majority-element-ii](https://github.com/Erzaid04/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Erzaid04/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Erzaid04/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/Erzaid04/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Erzaid04/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Erzaid04/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Erzaid04/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -224,6 +225,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 | [0242-valid-anagram](https://github.com/Erzaid04/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Erzaid04/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Erzaid04/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Erzaid04/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Erzaid04/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/Erzaid04/leetcode-solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Erzaid04/leetcode-solutions/tree/master/0402-remove-k-digits) |
@@ -361,6 +363,7 @@ A curated collection of my <b>Python</b> solutions to LeetCode problems, organiz
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Erzaid04/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/Erzaid04/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/Erzaid04/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [2029-stone-game-ix](https://github.com/Erzaid04/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Stack
